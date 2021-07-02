@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "toggle-layout",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "title": "Display toggle layout",
   "description": "A layout that renders it's content, on demand, via site editor",
   "builders": {

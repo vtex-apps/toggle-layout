@@ -1,5 +1,5 @@
 {
   "admin/editor.toggle-layout.title": "Toggle Layout",
   "admin/editor.toggle-layout.description": "A layout that renders it's content on demand",
-  "admin/editor.toggle-layout.renderChildren.title": "Controls if the components are rendered"
+  "admin/editor.toggle-layout.renderChildren.title": "Show content"
 }

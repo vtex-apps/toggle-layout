@@ -1,9 +1,9 @@
 import React from 'react';
 
-const ToggleLayout: StorefrontComponent = ({ visibility = true, children }: { visibility: boolean, children: React.ComponentType }) => {
+const ToggleLayout: StorefrontComponent = ({ renderChildren = true, children }: { renderChildren: boolean, children: React.ComponentType }) => {
 
   return (
-    visibility && children
+    renderChildren && children
   );
 };
 

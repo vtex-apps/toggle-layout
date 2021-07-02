@@ -4,7 +4,7 @@ A layout that renders it's content, on demand, controlled via site editor
 
 ⚠️ This app works not as visibility, but as displaying it's content passed
 
-![Site editor example](../../../img/toggleLayout.png)
+![Site editor example](../img/toggleLayout.png)
 
 ## Configuration
 

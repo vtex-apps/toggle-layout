@@ -1,0 +1,6 @@
+{
+  "toggle-layout": {
+    "component": "index",
+    "composition": "children"
+  }
+}

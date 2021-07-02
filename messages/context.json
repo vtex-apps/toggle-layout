@@ -1,0 +1,5 @@
+{
+  "admin/editor.toggle-layout.title": "Title of Toggle Layout component",
+  "admin/editor.toggle-layout.description": "Description of Toggle Layout component",
+  "admin/editor.toggle-layout.renderChildren.title": "Description of renderChildren property"
+}

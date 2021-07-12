@@ -1,0 +1,4 @@
+- name: All Contributors Action
+  # You may pin to the exact commit or the version.
+  # uses: sinchang/all-contributors-action@3de276a8d2d0b8ce37aa7f5bf5136b796e881650
+  uses: sinchang/all-contributors-action@v1.2.1

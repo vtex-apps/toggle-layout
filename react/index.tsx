@@ -1,14 +1,16 @@
-import React from 'react';
+import React from 'react'
 
-const ToggleLayout: StorefrontComponent = ({ renderChildren = true, children }: { renderChildren: boolean, children: React.ComponentType }) => {
+const ToggleLayout: StorefrontComponent = ({
+  renderChildren = true,
+  children,
+}: {
+  renderChildren: boolean
+  children: React.ComponentType
+}) => {
+  if (!renderChildren) return null
 
-  console.log(renderChildren);
-  console.log(children);
-
-  return (
-    renderChildren && children
-  );
-};
+  return children
+}
 
 ToggleLayout.schema = {
   title: 'admin/editor.toggle-layout.title',
@@ -19,8 +21,8 @@ ToggleLayout.schema = {
       title: 'admin/editor.toggle-layout.renderChildren.title',
       type: 'boolean',
       default: true,
-    }
+    },
   },
 }
 
-export default ToggleLayout;
+export default ToggleLayout

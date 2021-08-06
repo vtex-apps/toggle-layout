@@ -191,10 +191,10 @@
     intl-messageformat-parser "^6.0.9"
     util "^0.12.1"
 
-"@vtex/prettier-config@^0.3.5":
-  version "0.3.5"
-  resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-0.3.5.tgz#99e44c6235c541a8d2b7cd50fc9662c7bc17309a"
-  integrity sha512-/mIPrS2Qz9vG//aRxk/hi3Np/NWfTbbJakVuy+ouY5Gh6tfYfC83neAm4KSJsNVVcIcPP1Shc4/Y9zVmgmNCRA==
+"@vtex/prettier-config@^0.3.6":
+  version "0.3.6"
+  resolved "https://registry.yarnpkg.com/@vtex/prettier-config/-/prettier-config-0.3.6.tgz#31762608d9a59b815b6d4e963e439b12f1a12279"
+  integrity sha512-nXE3BcMODomFK3EowfK+Hdj2qQRqB8JcdRv8yTREXnN9xq8DYKmH/dWB+RY/Hn3KozFLbygpZRbqYsiA6HDINQ==
 
 acorn-jsx@^5.2.0:
   version "5.2.0"

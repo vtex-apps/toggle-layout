@@ -7,10 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.2] - 2021-08-06
 ### Added
+
+- Changed the guard clause for rendering children
+
+## [0.0.2] - 2021-08-06
+
+### Added
+
 - Testing phase on dependency's usage
+
 ## [0.0.1] - 2021-07-02
 
 ### Added
+
 - Initial release.

@@ -21,6 +21,7 @@
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
     "typescript": "3.9.7",
-    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.130.0/public/@types/vtex.render-runtime"
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.131.0/public/@types/vtex.render-runtime",
+    "vtex.toggle-layout": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.toggle-layout@0.0.2/public/@types/vtex.toggle-layout"
   }
 }

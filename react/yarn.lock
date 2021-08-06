@@ -4946,9 +4946,13 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.130.0/public/@types/vtex.render-runtime":
-  version "8.130.0"
-  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.130.0/public/@types/vtex.render-runtime#6958e1017c423c0906eae3500bad70d3fb353a98"
+"vtex.render-runtime@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.131.0/public/@types/vtex.render-runtime":
+  version "8.131.0"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.131.0/public/@types/vtex.render-runtime#dcc88828e3d65ecb4e7538a3623a4b1ddd77e034"
+
+"vtex.toggle-layout@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.toggle-layout@0.0.2/public/@types/vtex.toggle-layout":
+  version "0.0.2"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.toggle-layout@0.0.2/public/@types/vtex.toggle-layout#bb00dc1b33154fefe29ddbfe513222b82817880f"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"

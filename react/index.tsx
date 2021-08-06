@@ -2,6 +2,9 @@ import React from 'react';
 
 const ToggleLayout: StorefrontComponent = ({ renderChildren = true, children }: { renderChildren: boolean, children: React.ComponentType }) => {
 
+  console.log(renderChildren);
+  console.log(children);
+
   return (
     renderChildren && children
   );

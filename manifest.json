@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "toggle-layout",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Display toggle layout",
   "description": "A layout that renders it's content, on demand, via site editor",
   "builders": {
@@ -11,9 +11,7 @@
     "store": "0.x"
   },
   "dependencies": {},
-  "registries": [
-    "smartcheckout"
-  ],
+  "registries": ["smartcheckout"],
   "policies": [],
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
